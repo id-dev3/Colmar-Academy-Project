@@ -1,0 +1,144 @@
+@media only screen and (max-width: 600px) {
+    .colmar,.academy {
+        font-size: 1rem;
+    }
+    .bgImage {
+        height: auto;
+    }
+    .bannerImg {
+        width: 100%;
+        padding: 0;
+    }
+    div.containerImg {
+        padding: 0;
+    }
+    div.containerText {
+        padding: 0 1.125rem 0 1.125rem;
+    }
+    .heading1 {
+        font-size: 2.250rem;
+        font-weight: 700;
+        padding-top: 1.300rem;
+    }
+    .heading2,.infos {
+        margin-bottom: 0.525rem;
+    }
+    p.lorem {
+        font-weight: 500;
+    }
+    button.btn {
+        min-width: 100%;
+    }
+    .btn1 {
+        margin-bottom: 2rem;
+    }
+    .infoImg,div.lessPadding,video.video1 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .practicing {
+        font-size: 2rem;
+        margin-bottom: 0;
+        padding-left: 0;
+    }
+    .paragraph1,.name {
+        margin-bottom: 0;
+        padding-left: 0;
+    }
+    p.infos3 {
+        font-size: 0.840rem;
+    }
+    .rowBis {
+        padding-right: 0;
+    }
+    .row5 {
+        line-height: 0.5;
+    }
+    .rightImg,.rightImg1 {
+        margin-left: 0;
+    }
+    .video1 {
+        padding-bottom: 1rem;
+    }
+    p.infos {
+        line-height: 1.5;
+    }
+    .rightImg2 {
+        margin-left: 0;
+    }
+    div.reducPadding {
+        padding-left: 0.600rem;
+        padding-right: 0.600rem;
+    }
+    .condition {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+    a.logoContainer {
+        width: 50%;
+    }
+    .colmar,.academy {
+        font-size: 1.25rem;
+    }
+    img.logo {
+        width: 40px;
+    }
+    div.containerImg {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    img.bannerImg {
+        padding: 0 0 1rem 0;
+    }
+    .containerBis {
+        text-align: center;
+        padding: 0 1.2rem;
+    }
+    h1.heading1 {
+        font-size: 2.900rem;
+    }
+    p.lorem {
+        font-size: 1.500rem;
+        font-weight: 500;
+    }
+    .btn1 {
+        height: 45px;
+        max-width: 60%;
+    }
+    .infoImg,.practicing,.paragraph1 {
+        padding-bottom: 1rem;
+        padding-left: 0.500rem;
+    }
+    .paragraph1 {
+        padding-right: 0.930rem;
+    }
+    h2.practicing,.paragraph1,.name {
+        margin-bottom: 0;
+    }
+    p.name {
+        padding-left: 0.500rem;
+    }
+    .rightImg,.rightImg1 {
+        width: 7.5rem;
+        margin-left: 0.580rem;
+    }
+    .infos {
+        line-height: 1.25;
+    }
+    .row3 {
+        line-height: 0;
+    }
+    .row5 {
+        line-height: 0;
+    }
+    .footerText,.condition {
+        font-size: 1.050rem;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+    
+}
